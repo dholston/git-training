@@ -5,4 +5,4 @@ node_modules
 .tmp
 notes/
 npm-debug.log
-**/*-todo.node_md
+**/*-todo.md
